@@ -1,0 +1,2 @@
+# rust-httpie
+rust practice
